@@ -1,5 +1,7 @@
 # Contributing to `bindgen`
 
+This is a test.
+
 Hi! We'd love to have your contributions! If you want help or mentorship, reach
 out to us in a GitHub issue, or stop by
 [#rust on chat.mozilla.org](https://chat.mozilla.org/#/room/#rust:mozilla.org)
